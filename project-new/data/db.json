@@ -1,0 +1,46 @@
+{
+	"projects": [
+		{
+			"id": 1,
+			"customer": "AT Studios",
+			"title": "Pokedex",
+			"details": "lorem",
+			"uploaded": "a few minutes ago"
+		},
+		{
+			"id": 2,
+			"customer": "YamaDev",
+			"title": "Yu-Gi-Oh",
+			"details": "lorem",
+			"uploaded": "2 days ago"
+		},
+		{
+			"id": 3,
+			"customer": "Gambler Inc.",
+			"title": "urlShortner",
+			"details": "lorem",
+			"uploaded": "2 days ago"
+		},
+		{
+			"id": 4,
+			"customer": "AT Studios",
+			"title": "PasswordGen",
+			"details": "lorem",
+			"uploaded": "4 days ago"
+		},
+		{
+			"id": 5,
+			"customer": "Bryan Hopper",
+			"title": "BIC",
+			"details": "lorem",
+			"uploaded": "6 days ago"
+		},
+		{
+			"id": 6,
+			"customer": "YamaDev",
+			"title": "JokesGen",
+			"details": "lorem",
+			"uploaded": "7 days ago"
+		}
+	]
+}
